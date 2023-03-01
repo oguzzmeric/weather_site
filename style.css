@@ -1,0 +1,58 @@
+body{
+    background-image: url("wp2.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+}
+.header{
+    text-align: center;
+    padding-top: 2cm;
+    
+}
+#searcher{
+    width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+
+}
+.content{
+    display: inline-block;
+    text-align: center;
+    font-size: x-large;
+    font-family: fantasy;
+    width: 100%;
+    
+}
+
+.city{
+    margin-top: 2cm;
+    font-family: fantasy;
+    font-size: x-large;
+    color: orange;
+    text-decoration: underline;
+}
+.temp{
+    font-family: fantasy;
+    color: orange;
+    font-size: x-large;
+    margin-top: 0.1cm;
+    text-decoration: underline;
+    
+}
+.feels_temp{
+    
+    font-family: fantasy;
+    color: orange;
+    font-size: x-large;
+    text-decoration: underline;
+}
+.desc{
+    font-family: fantasy;  
+    color: orange;
+    text-decoration: underline  orange;
+    
+}
